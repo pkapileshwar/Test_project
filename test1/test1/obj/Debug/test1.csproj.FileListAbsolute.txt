@@ -1,0 +1,9 @@
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\bin\Debug\test1.exe.config
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\bin\Debug\test1.exe
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\bin\Debug\test1.pdb
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\obj\Debug\test1.exe
+C:\Users\praja\Documents\GitHub\Test_project\test1\test1\obj\Debug\test1.pdb
